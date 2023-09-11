@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/index.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/ModeloDAO/NotasDAO.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/addComment.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Controlador/ControladorCommentResponse.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/addNote.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/editNote.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/listComment.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/listNote.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Modelo/NotasCommentResponse.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/ModeloDAO/NotasCommentDAO.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/ModeloDAO/NotasCommentResponseDAO.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Modelo/NotasComment.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/addCommentResponse.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/ModeloDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/BaseDeDatos/Conexion.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/listCommentResponse.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/Vistas/listNotes.jsp</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Modelo/Usuario.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Controlador/ControladorComment.java</file>
+            <file>file:/C:/Users/paule/OneDrive/Documentos/NetBeansProjects/Test/src/java/Modelo/Notas.java</file>
+        </group>
+    </open-files>
+</project-private>
